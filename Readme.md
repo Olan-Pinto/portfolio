@@ -1,16 +1,12 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> [Welcome to my world. Click here!](https://olan-pinto.github.io/portfolio/)
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="website_images/homepage.png" width="900">
 
 
 #### About Page
@@ -20,9 +16,6 @@
 #### Projects Page
 <img src="website_images/ProjectPage.png" width="900">
   
-
-
-:star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
@@ -75,3 +68,5 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
+Adopted from [Raja Prerak](https://github.com/rajaprerak)
